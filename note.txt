@@ -1,0 +1,23 @@
+Firstly, 
+
+Navigation Bar:
+- lgog
+- nav-links
+- cart
+- 50% border-radius picture
+- border-under-line with an active line
+
+2.  Cart modal pop-up
+- box-shadow
+3. profile-picture
+-on hover- border-line
+
+4. picure on display .left
+
+5.  picture display details  .right
+
+6. number-increase not less than zero .left
+
+7. Add to cart .right
+
+8. range of pictures that can be clicked and reflect on the display page
